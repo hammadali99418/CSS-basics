@@ -1,0 +1,29 @@
+.navbar{
+background-color: rgb(51, 11, 11);
+display: flex;
+justify-content: space-evenly;
+}
+a{
+    text-decoration: none;
+    background-color: black;
+}
+
+li{
+    list-style-type: none;
+    background-color: blue;
+}
+
+.outer{
+     height:400px;
+     width: 400px;
+     background-color: blueviolet;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+
+.inner{
+     height:400px;
+     width: 400px;
+     background-color: white;
+}
