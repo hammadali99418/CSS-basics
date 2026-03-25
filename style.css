@@ -1,0 +1,50 @@
+h1{
+    color: #a31b1b;
+}
+
+p{
+    color: orangered;
+}
+
+button{
+    color: #967406;
+    background-color: white;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+#headingOne{
+    color: #2f1ba3;
+}
+
+.myclass{
+    color: yellow;
+}
+
+p{
+    text-align: right;
+}
+
+h1{
+    text-align: center;
+}
+
+#one{
+    font-size: 30px;
+    line-height: 30px;
+    text-transform: uppercase;
+}
+
+#two{
+    font-size: 20px;
+    line-height: 20px;
+    text-transform: lowercase;
+}
+
+#three{
+    font-size: 10px;
+    line-height: 10px;
+    text-transform: capitalize;
+}

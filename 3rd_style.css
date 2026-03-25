@@ -1,0 +1,10 @@
+
+div{
+    color: aqua;
+    background-color: brown;
+    display: inline;
+}
+
+button{
+    display: block;
+}
